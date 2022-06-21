@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(138, 162, 154);
+}
+
+#baslik{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-size: 25px;
+    color: rgb(186, 71, 71);
+    text-align: center;
+}
+h2{
+    background-color: rgb(84, 155, 217);
+    font-style: italic;
+    border: 3px solid rgb(6, 247, 251);
+    color:rgb(186, 71, 71);
+    border-radius: 10px;
+    float: left;
+}
+h3{
+    background-color: rgb(84, 155, 217);
+    font-style: italic;
+    border: 3px solid rgb(6, 247, 251);
+    color:rgb(186, 71, 71);
+    border-radius: 10px;
+    float: left;
+}
+ul{
+    border: 3px solid black;
+    border-radius: 10px;
+    float: left;
+}
+.baslik2{
+    background-color: rgb(84, 155, 217);
+    font-style: italic;
+    border: 3px solid rgb(6, 247, 251);
+    color:rgb(186, 71, 71);
+    border-radius: 10px;
+    float: auto;
+}
